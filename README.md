@@ -1,8 +1,7 @@
 # **Project Plan** <br>
 # **Team project** <br>
 # **Clothes store "Luvvy"** <br>
-Students' name: @github/nazzeya
-@github/symbataa @github/aruskembaeve
+
 
 ## **Introduction**
 
